@@ -3,7 +3,7 @@
   "collaborators": [
     "Exsjabe <jakob.bergstrom@explizit.se>"
   ],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "files": [
     "index_bg.wasm",
     "index.js",
